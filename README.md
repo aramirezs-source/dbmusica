@@ -39,5 +39,5 @@ La base de dades `grups_musica.db` es crearà automàticament al primer ús.
 
 Aquest projecte ha estat desenvolupat com a pràctica educativa en programació amb Python i bases de dades SQLite.
 
-**Autor/a**: *[El teu nom aquí]*  
-**Data**: Abril 2025  
+**Autor/a**: *[Adrià Ramírez]*  
+**Data**:24 Abril 2025  
